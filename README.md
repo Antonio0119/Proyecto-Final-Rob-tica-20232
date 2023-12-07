@@ -20,9 +20,11 @@ Proyecto Final del Curso Robótica Industrial Semestre 20232
 	*cv2 (opencv)
 	<br>*tkinter
 	<br>*numpy
-	<br>*serial
+	<br>*pyserial
 	<br>*time
 	<br>*os
+ 	<br>*struc
+  	<br>*binascii
 	
 <h4>Procedimiento para utilizar los programas:</h4>
 	1) Disponer las tapas o piezas en la zona designada.
