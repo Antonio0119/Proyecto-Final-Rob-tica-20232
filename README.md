@@ -13,8 +13,8 @@ Proyecto Final del Curso Robótica Industrial Semestre 20232
 	<br>*Tapas de colores
 
 <h4>Software necesario:</h4>
-	*Python
-	<br>*Arduino
+	*Python 3.9.13
+	<br>*Arduino 2.2.1
 
 <h4>Librerías Python necesarias:</h4>
 	*cv2 (opencv)
