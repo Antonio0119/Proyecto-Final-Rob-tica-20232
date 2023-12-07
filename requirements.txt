@@ -1,0 +1,4 @@
+opencv-python==4.8.1.78
+pyserial==3.5
+numpy==1.26.0
+tk==8.6.12
