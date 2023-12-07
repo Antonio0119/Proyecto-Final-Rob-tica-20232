@@ -3,7 +3,7 @@ Proyecto Final del Curso Robótica Industrial Semestre 20232
 <br>Ingeniería Electrónica - Facultad de Ingeniería - Universidad de Antioquia
 <br>Creado por Antonio José Aristizábal y David Felipe Vélez
 
-<h2>Instrucciones para el uso del Dobot clasificador de elementos por color</h2>
+<h2>Instrucciones para el uso del Dobot Clasificador de Elementos por Color</h2>
 
 <h4>Hardware necesario:</h4>
 	*PC o Laptop básicas
